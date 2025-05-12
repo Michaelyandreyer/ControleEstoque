@@ -6,6 +6,6 @@
         "store/*": ["store/*"]
       }
     },
-    "include": ["src"]  
+    "include": ["src", "tailwind.config.js", "postcss.config.js"]  
   }
   
